@@ -7,7 +7,7 @@ Me interesso por metodologias, sobretudo quantitativas 👩🏻‍💻
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alumenezes&show_icons=true&theme=radical&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alumenezes&theme=radical)](https://github.com/alumenezes/alumenezes)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alumenezes&repo=alumenezes&theme=radical)](https://github.com/alumenezes/alumenezes)### Hi there 👋
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alumenezes&repo=alumenezes&theme=radical)](https://github.com/alumenezes/alumenezes)
 
 <!--
 **alumenezes/alumenezes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
