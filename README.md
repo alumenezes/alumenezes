@@ -2,15 +2,15 @@
 
 Sou estudante de bacharelado de Ciências Sociais na UFMG, Belo Horizonte 📍onde dedico meus estudos a desigualdade e segregação socioespacial sob a orientação da Profa. Ana Paula Vasconcelos (CRISP/FAFICH-UFMG). Meu último projeto na linha de pesquisa tem sido a otimização da produção de índices clássicos de segregação socioespacial com o uso da linguagem python (GeoPandas e numpy)🗺️. Também já colaborei com projetos da Fundação IPEAD, atuando na linha de frente da mobilização social em um projeto Minha Casa Minha Vida Entidades e fazendo trabalhos de geoprocessamento paralelos. 
 
-Estagio desde 2024 na empresa Jumppi Inteligência e Pesquisa, onde atuo na frente de análise de dados quantitativos e qualitativos. Neste último ano, desenvolvi habilidades de análise e processamento de dados, organização de tarefas, gestão de projetos e experiência do cliente. Entre as minhas atividades, a elaboração de storytelling, visualização dinâmica e intuitiva de dados e apresentações de produtos compõem minha rotina.
+<!--<img width="512" height="512" alt="research" src="https://github.com/user-attachments/assets/1c3beb18-dc08-4fb2-aad1-a33c50fb31d0" /> 
 
-Me interesso por metodologias de pesquisa, programação, segurança de dados e estatística.
+Estagio desde 2024 na empresa Jumppi Inteligência e Pesquisa, onde atuo na frente de análise de dados quantitativos e qualitativos em pesquisa de mercado>. Neste último ano, desenvolvi habilidades de análise e processamento de dados, organização de tarefas, gestão de projetos e experiência do cliente. Entre as minhas atividades, a elaboração de storytelling, visualização dinâmica e intuitiva de dados e apresentações de produtos compõem minha rotina.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alumenezes&show_icons=true&theme=radical&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alumenezes&theme=radical)](https://github.com/alumenezes/alumenezes)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alumenezes&repo=alumenezes&theme=radical)](https://github.com/alumenezes/alumenezes)
+Me interesso por metodologias de pesquisa, programação, big data e estatística social. Vejo nos dados e na programação não só uma forma de estudar o mundo, mas também de transformá-lo.
 
-<!--
+
+
+
 **alumenezes/alumenezes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
