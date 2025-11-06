@@ -1,9 +1,10 @@
 # Olá! Eu sou a Menezes 👋
-Sou estudante de Ciências Sociais na UFMG, Belo Horizonte 📍
 
-Trabalho com temas urbanos, atualmente com enfoque em desigualdade e segregação socioespacial 🗺️
+Sou estudante de bacharelado de Ciências Sociais na UFMG, Belo Horizonte 📍onde dedico meus estudos a desigualdade e segregação socioespacial sob a orientação da Profa. Ana Paula Vasconcelos (CRISP/FAFICH-UFMG). Meu último projeto na linha de pesquisa tem sido a otimização da produção de índices clássicos de segregação socioespacial com o uso da linguagem python (GeoPandas e numpy)🗺️. Também já colaborei com projetos da Fundação IPEAD, atuando na linha de frente da mobilização social em um projeto Minha Casa Minha Vida Entidades e fazendo trabalhos de geoprocessamento paralelos. 
 
-Me interesso por metodologias, sobretudo quantitativas 👩🏻‍💻
+Estagio desde 2024 na empresa Jumppi Inteligência e Pesquisa, onde atuo na frente de análise de dados quantitativos e qualitativos. Neste último ano, desenvolvi habilidades de análise e processamento de dados, organização de tarefas, gestão de projetos e experiência do cliente. Entre as minhas atividades, a elaboração de storytelling, visualização dinâmica e intuitiva de dados e apresentações de produtos compõem minha rotina.
+
+Me interesso por metodologias de pesquisa, programação, segurança de dados e estatística.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alumenezes&show_icons=true&theme=radical&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alumenezes&theme=radical)](https://github.com/alumenezes/alumenezes)
