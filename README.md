@@ -7,16 +7,19 @@ Estagio desde 2024 na empresa Jumppi Inteligência e Pesquisa, onde atuo na fren
 Me interesso por metodologias de pesquisa, programação, big data e estatística social. Vejo nos dados e na programação não só uma forma de estudar o mundo, mas também de transformá-lo. 🌎
 
 ##
-Skills
-</div style="display: inline_block"> <br>
-            <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
-            <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
-            <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spss/spss-original.svg" />
-            <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" />
-           <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-original.svg" />
-            <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-            <img align="center" height="30" width="40" src="https://www.svgrepo.com/show/473761/powerbi.svg" />
-</div>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="30" alt="C++" />&emsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" height="30" alt="R" />&emsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="30" alt="Python" />&emsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spss/spss-original.svg" height="30" alt="SPSS" />&emsp;
+  <img src="https://github.com/user-attachments/assets/48d96040-bf60-4f88-b94d-380b6fccc164" height="30" alt="jamovi" />&emsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-original.svg" height="30" alt="RStudio" />&emsp;
+  <img src="https://github.com/microsoft/PowerBI-Icons/raw/main/SVG/Power-BI.svg" height="30" alt="Power BI" />&emsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Microsoft_Office_Excel_%282019%E2%80%932025%29.svg" height="30" alt="Excel" />&emsp;
+  <img src="https://qgis.org/styleguide/visual/qgis-logo.svg" height="30" alt="QGIS" />&emsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" height="30" alt="Figma" />
+</p>
+
 
 
           
