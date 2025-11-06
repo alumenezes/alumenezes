@@ -6,6 +6,14 @@ Estagio desde 2024 na empresa Jumppi Inteligência e Pesquisa, onde atuo na fren
 
 Me interesso por metodologias de pesquisa, programação, big data e estatística social. Vejo nos dados e na programação não só uma forma de estudar o mundo, mas também de transformá-lo. 🌎
 
-
+</div style="display: inline_block"><br>
+            <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+            <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+            <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spss/spss-original.svg" />
+            <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" />
+           <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-original.svg" />
+            <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+</div>
+          
 
 
