@@ -14,6 +14,7 @@ Me interesso por metodologias de pesquisa, programação, big data e estatístic
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spss/spss-original.svg" height="30" alt="SPSS" />&emsp;
   <img src="https://github.com/user-attachments/assets/48d96040-bf60-4f88-b94d-380b6fccc164" height="30" alt="jamovi" />&emsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-original.svg" height="30" alt="RStudio" />&emsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" height="30" alt="Jupyter" />&emsp;
   <img src="https://github.com/microsoft/PowerBI-Icons/raw/main/SVG/Power-BI.svg" height="30" alt="Power BI" />&emsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Microsoft_Office_Excel_%282019%E2%80%932025%29.svg" height="30" alt="Excel" />&emsp;
   <img src="https://qgis.org/styleguide/visual/qgis-logo.svg" height="30" alt="QGIS" />&emsp;
